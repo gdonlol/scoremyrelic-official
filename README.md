@@ -1,4 +1,5 @@
-# Scoremyrelic Docs
+# Scoremyrelic Official Docs
+![image](https://github.com/gdonlol/scoremyrelic-docs/assets/66427508/d4cf693a-5eab-4946-8ba8-7ae9a6481a52)
 ### [Go to changelog here](/changelog.md)
 
 ### Main Features:
