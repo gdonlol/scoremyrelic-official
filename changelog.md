@@ -1,5 +1,11 @@
 # Changelog
 
+April 17 2024:
+
+- Added Aventurine
+- Added Aventurine weights
+- Added lightcones: "Concert for Two", "Inherently Unjust Destiny"
+
 April 15 2024:
 
  - Changed build card design
