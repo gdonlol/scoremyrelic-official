@@ -4,7 +4,7 @@
 
 ### Main Features:
 - View public stats of any Honkai Star Rail player's account with UID
-- Score relic (in game items) strength value (formula can be found here: [https://www.scoremyrelic.com/relic-scorer](https://www.scoremyrelic.com/relic-scorer)
+- Score relic (in game items) strength value (formula can be found here: [https://www.scoremyrelic.com/relic-scorer](https://www.scoremyrelic.com/relic-scorer))
 - Individual profile pages
 - Player search
 
