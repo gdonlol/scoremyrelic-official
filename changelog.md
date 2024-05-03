@@ -1,5 +1,26 @@
 # Changelog
 
+May 3 2024:
+
+- Added Total RS Leaderboards
+- Added Single Character RS Leaderboards for
+  - Acheron
+  - Imbibitor Lunae
+  - Jingliu
+  - Kafka
+  - Dr. Ratio
+  - Jing Yuan
+  - Seele
+  - Qingque
+  - Yanqing
+  - Blade
+  - Topaz and Numby
+  - Argenti
+  - Black Swan
+  - Himeko
+- Added Accounts System
+  - Accounts can have custom profile pictures and profile banners
+
 April 17 2024:
 
 - Added Aventurine
