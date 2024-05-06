@@ -1,5 +1,12 @@
 # Changelog
 
+May 6 2024:
+- Changed frontend design
+- Added toggle to ignore main stats and/or sets
+- Added build card background switcher
+- Added missing main stats/sets to some characters
+- Changed unwanted main stat from -75% RS > -50% RS
+
 May 3 2024:
 
 - Added Total RS Leaderboards
