@@ -5,7 +5,9 @@ May 6 2024:
 - Added toggle to ignore main stats and/or sets
 - Added build card background switcher
 - Added missing main stats/sets to some characters
-- Changed unwanted main stat from -75% RS > -50% RS
+- Changed unwanted main stat from -75% > -50%
+- Changed unsuitable set from -25% > -10%
+- Added new deduction "off-set piece": -15%
 
 May 3 2024:
 
