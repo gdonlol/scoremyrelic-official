@@ -1,5 +1,9 @@
 # Changelog
 
+May 8 2024:
+- Added Robin
+- Added new lightcones
+
 May 6 2024:
 - Changed frontend design
 - Added toggle to ignore main stats and/or sets
