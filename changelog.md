@@ -1,5 +1,17 @@
 # Changelog
 
+July 30 2024:
+- Added Jade
+- Added Firefly
+- Guide Infographic Revamp:
+![image](https://github.com/user-attachments/assets/231a5db5-e140-4141-8cfc-cb4a8c85ffd0)
+- Relic score calculation breakdown:
+ ![image](https://github.com/user-attachments/assets/a6f3c6fc-f84c-49f3-9dc4-4ae97e336318)
+- More accurate search
+- Changes to weights
+- Changes to character sets
+
+
 May 8 2024:
 - Added Robin
 - Added new lightcones
